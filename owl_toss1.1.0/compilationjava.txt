@@ -1,0 +1,2 @@
+javac owl_toss1.1.0\*.java
+java owl_toss1.1.0.Owl_toss
